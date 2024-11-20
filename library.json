@@ -1,0 +1,21 @@
+{
+    "name": "lsm303stm32",
+    "version": "1.0.0",
+    "description": "A \"lsm303stm32\" is a library for using LSM303DLHC (GY-511) sensor by STM32",
+    "keywords": [ "LSM303", "LSM303DLHC", "STM32", "accelerometer", "magnetometer", "pitch", "roll", "yaw", "incline" ],
+    "homepage": "https://github.com/Ilushenko/lsm303stm32",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Ilushenko/lsm303stm32.git"
+    },
+    "authors":
+    {
+        "name": "Oleksandr Ilushenko",
+        "email": "ilushenkoal@gmail.com",
+        "maintainer": true
+    },
+    "license": "MIT",
+    "frameworks": "stm32cube",
+    "platforms": "stm32"
+}
